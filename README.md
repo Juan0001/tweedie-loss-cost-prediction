@@ -164,7 +164,7 @@ Special cases: $p=0$ (Normal), $p=1$ (Poisson), $p=2$ (Gamma), $p=3$ (Inverse Ga
 
 ## Blog Post
 
-The companion blog post is available at on [Medium](https://medium.com/@juanluo2008).
+The companion blog post is available at on [Medium](https://medium.com/@juankehoe).
 
 ## Contributing
 
