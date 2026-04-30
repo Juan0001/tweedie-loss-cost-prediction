@@ -174,6 +174,4 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
----
 
-*Built by [Juan Luo](https://github.com/YOUR_USERNAME) as part of the Healthcare Data Analytics blog series.*
