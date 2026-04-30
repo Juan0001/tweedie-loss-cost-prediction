@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (keep data/ dir but ignore large files)
+data/*.csv
+data/*.parquet
+data/*.json
+!data/README.md
+
+# Generated images (reproducible from notebooks)
+images/*.png
+images/*.jpg
+images/*.svg
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Dask
+dask-worker-space/
+
+# Environment
+.env
+*.log
