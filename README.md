@@ -164,7 +164,7 @@ Special cases: $p=0$ (Normal), $p=1$ (Poisson), $p=2$ (Gamma), $p=3$ (Inverse Ga
 
 ## Blog Post
 
-The companion blog post is available at on [Medium](https://medium.com/@juankehoe).
+The companion blog post is available at on [Medium](https://medium.com/@juankehoe/tweedie-loss-the-secret-weapon-for-predicting-costs-that-are-mostly-zero-4fd18be8f810).
 
 ## Contributing
 
